@@ -1,4 +1,3 @@
-// Variables para realizar un seguimiento del jugador actual y del mensaje de estado
 let currentPlayer = "X";
 let gameState = ["", "", "", "", "", "", "", "", ""];
 
