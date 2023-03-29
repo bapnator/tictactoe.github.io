@@ -60,5 +60,5 @@ document.querySelectorAll(".square").forEach(square => {
     }
   });
 });
-document.getElementById("reiniciar").addEventListener("click", restartGame);
+document.getElementById("Restart").addEventListener("click", restartGame);
 displayBoard();
